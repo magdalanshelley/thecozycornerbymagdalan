@@ -51,7 +51,7 @@ export default function Home() {
           </section>
 
           <footer>
-            © 2026 The Cozy Corner — brewed with love ☕📚
+            © 2026 The Cozy Corner
           </footer>
         </div>
       </div>

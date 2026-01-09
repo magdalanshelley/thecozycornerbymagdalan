@@ -33,7 +33,7 @@ export default function AboutPage() {
           </p>
         </section>
 
-        <footer>© 2026 The Cozy Corner ✨</footer>
+        <footer>© 2026 The Cozy Corner</footer>
       </div>
 
       <style jsx>{`
