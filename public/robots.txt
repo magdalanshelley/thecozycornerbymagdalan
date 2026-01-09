@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thecozycornerbymagdalan.vercel.app/sitemap.xml
